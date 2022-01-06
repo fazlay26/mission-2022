@@ -161,12 +161,15 @@ span{
 .contact{
     display: flex;
     margin-left: 341px;
+    margin-right: 378px;
+    margin-bottom: 83px;
 }
 .contact1{
     text-align: center;
     margin-top: 100px;
     margin-bottom: 50px;
     padding-right: 46px;
+    font-size: 40px;
     
     
     
@@ -176,6 +179,15 @@ span{
     
     margin-right: 20px;
 
+}
+.box{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 5px  20px gray;
+    margin-left: 10px;
+    padding: 15px;
+    width: 30%;
+    text-align: center;
 }
 
 
