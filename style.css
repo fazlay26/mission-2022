@@ -1,0 +1,180 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.color{
+    color: #ec4c77;
+}
+h1{
+    font-size: 60px;
+
+}
+.first{
+    margin-bottom: -51px;
+}
+.slice{
+    border-left: 5px solid #ff5959;
+    border-radius: 2px;
+    padding-left: 10px;
+}
+.second{
+    margin-bottom: -26px;
+}
+.third{
+    margin-bottom: -52px;
+}
+
+.flexible-container{
+    display: flex;
+    padding-left: 30px;
+    margin-bottom: 30px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 40%;
+    margin-left: 300px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#ec4f8e,#ec4b74);
+    padding: 10px  40px;
+    color: white;
+    border-radius: 5px;
+}
+.top{
+    margin-bottom: 40px;
+}
+span{
+    color: #ec4c77;
+}
+.title{
+    text-align: center;
+    font-size: 40px;
+}
+.bg1{
+    background-color: #edf5f6;
+    padding-left: 30px;
+    margin-right: 50px;
+    padding-bottom: 50px;
+    margin-left: 140px;
+    
+}
+.bg2{
+    background-color:#ffeeee;
+    padding-left: 30px;
+}
+.bg3{
+    background-color: #fff4d6;
+    padding-left: 30px;
+    margin-left: 50px;
+    margin-right: 158px;
+}
+.faz{
+    border-radius: 36px;
+}
+.bg2 img{
+    width: 40%;
+}
+.bg1 img{
+    width: 40%;
+}
+.bg3 img{
+    width: 40%;
+    
+}
+.same-part{
+    display: flex;
+    margin-top: 101px;
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+    
+    
+    
+}
+.same-part1{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.same-part1 img{
+    width: 61%;
+    margin-left: 210px;
+    margin-bottom: 36px;
+
+
+}
+#left{
+    margin-right: 128px;
+    padding-right: 0px;
+    
+    font-size: 20px;
+}
+.project{
+    display: flex;
+    margin-top: 40px;
+    
+}
+.project1{
+    
+    margin-left: 226px;
+}
+.project1 img{
+    width: 60%;
+    
+    
+}
+.footer{
+    text-align: center;
+    background-color: #0b0d17;
+    height: 200px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: -22px;
+    margin-left: -10px;
+    
+    
+    
+}
+.last-part{
+    color: #ff5959;
+}
+.footer  h3 {
+    color: white;
+    font-size: 15px;
+    font-weight: 300;
+
+}
+.footer h1{
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    padding-top: 45px;
+
+    
+    
+}
+.contact{
+    display: flex;
+    margin-left: 341px;
+}
+.contact1{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    padding-right: 46px;
+    
+    
+    
+}
+.box img {
+    width: 10%;
+    
+    margin-right: 20px;
+
+}
+
+
